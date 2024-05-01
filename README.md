@@ -2,9 +2,8 @@ About
 =========
 - Bass Studio is a DAW which supports VST2, VST3 and CLAP plugins.
 - Releases are provided for Windows and Linux for the x86_64 architecture.
-- The program requires Hardware OpenGL acceleration.
-- This Project is closed source
-- Only 64 bit builds are supported
+- Closed Source. Beta version are free to download and use.
+
 
 Features
 =========
