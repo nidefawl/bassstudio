@@ -56,5 +56,5 @@ CLAP Demo (Diva)
 
 Community
 =========
-Feel free to join the Discord Server. Hit me a message if you have questions. https://discord.gg/MxsgB7Ex
+Feel free to join the Discord Server. Hit me a message if you have questions. [https://discord.gg/MxsgB7Ex](https://discord.gg/aGdB8b7evp)
 
